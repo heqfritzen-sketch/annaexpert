@@ -10,7 +10,7 @@ export const FinalCtaSection: React.FC = () => {
         {/* Floating doctor mini badge */}
         <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#0F172A]/5 text-[#0F172A] text-xs font-semibold uppercase tracking-wider mb-4">
           <Award className="w-3.5 h-3.5 text-[#DC2626]" />
-          <span>Primeira Consulta 100% Gratuita</span>
+          <span>Atendimento Individual e Personalizado</span>
         </div>
 
         {/* Strong Decision Headline */}
@@ -26,7 +26,7 @@ export const FinalCtaSection: React.FC = () => {
         </h2>
 
         <p className="text-base sm:text-lg text-[#475569] leading-relaxed max-w-md mx-auto mb-6">
-          Dê o primeiro passo hoje mesmo. Reserve seu horário para a avaliação gratuita diretamente comigo no WhatsApp.
+          Dê o primeiro passo hoje mesmo. Reserve seu horário de avaliação diretamente comigo no WhatsApp.
         </p>
 
         {/* Scarcity / Quality assurance pill */}
@@ -44,8 +44,8 @@ export const FinalCtaSection: React.FC = () => {
         <div className="w-full max-w-md mx-auto">
           <WhatsAppButton
             id="final-cta-button"
-            text="Garantir minha consulta gratuita agora"
-            subtext="Resposta rápida • 100% gratuita • Sem compromisso"
+            text="Agendar minha consulta no WhatsApp"
+            subtext="Resposta rápida • Atendimento humanizado • São José dos Pinhais"
             size="large"
           />
         </div>
@@ -54,7 +54,7 @@ export const FinalCtaSection: React.FC = () => {
         <div className="mt-5 flex items-center justify-center gap-4 text-xs text-[#64748B]">
           <span className="flex items-center gap-1">
             <ShieldCheck className="w-3.5 h-3.5 text-[#DC2626]" />
-            Sem custos ocultos
+            Atendimento transparente
           </span>
           <span>•</span>
           <span className="flex items-center gap-1">

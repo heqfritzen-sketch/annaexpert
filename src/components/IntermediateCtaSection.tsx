@@ -13,7 +13,7 @@ export const IntermediateCtaSection: React.FC = () => {
 
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-[#FCA5A5] text-xs font-semibold uppercase tracking-wider mb-4 border border-white/10">
             <Sparkles className="w-3.5 h-3.5" />
-            <span>Sem custo • Sem compromisso</span>
+            <span>Atendimento Exclusivo • Sem Compromisso</span>
           </div>
 
           <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-white mb-2.5 font-serif-display">

@@ -63,7 +63,7 @@ export const HeroSection: React.FC = () => {
 
               <div className="bg-white/95 text-[#0A192F] px-2.5 py-1 rounded-full text-[11px] font-bold flex items-center gap-1 shadow-sm backdrop-blur-xs">
                 <Star className="w-3 h-3 fill-amber-400 text-amber-400" />
-                <span>Primeira Avaliação Grátis</span>
+                <span>Avaliação Personalizada</span>
               </div>
             </div>
           </div>
@@ -74,8 +74,8 @@ export const HeroSection: React.FC = () => {
               <ShieldCheck className="w-4 h-4" />
             </div>
             <div>
-              <p className="text-[11px] font-bold text-[#0A192F] leading-none">Sem compromisso</p>
-              <p className="text-[10px] text-[#64748B] leading-tight">Avaliação honesta</p>
+              <p className="text-[11px] font-bold text-[#0A192F] leading-none">Cuidado Individual</p>
+              <p className="text-[10px] text-[#64748B] leading-tight">Direto com a Dra. Anny</p>
             </div>
           </div>
         </div>
@@ -84,8 +84,8 @@ export const HeroSection: React.FC = () => {
         <div className="w-full max-w-md">
           <WhatsAppButton
             id="hero-cta-button"
-            text="Agendar primeira consulta gratuita no WhatsApp"
-            subtext="Resposta rápida • Sem compromisso"
+            text="Agendar minha avaliação no WhatsApp"
+            subtext="Resposta rápida • Atendimento direto e personalizado"
             size="large"
           />
         </div>

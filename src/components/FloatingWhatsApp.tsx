@@ -39,7 +39,7 @@ export const FloatingWhatsApp: React.FC = () => {
           </div>
           <div className="text-left leading-tight">
             <span className="block text-xs uppercase tracking-wider font-extrabold text-white/80">
-              1ª Consulta Gratuita
+              Atendimento Exclusivo
             </span>
             <span className="block text-sm font-black text-white">
               Agendar no WhatsApp

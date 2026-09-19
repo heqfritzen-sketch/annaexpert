@@ -44,9 +44,9 @@ export const EXPERT_DATA = {
   },
   whatsapp: {
     number: "5541991283538",
-    url: "https://api.whatsapp.com/send/?phone=5541991283538&text=Ol%C3%A1%2C%20Dra.%20Anny!%20Vi%20sua%20p%C3%A1gina%20e%20gostaria%20de%20agendar%20minha%20primeira%20consulta%20gratuita.&type=phone_number&app_absent=0",
-    buttonText: "Agendar primeira consulta gratuita no WhatsApp",
-    microText: "Resposta rápida • Sem compromisso • Vagas limitadas esta semana"
+    url: "https://api.whatsapp.com/send/?phone=5541991283538&text=Ol%C3%A1%2C%20Dra.%20Anny!%20Vi%20sua%20p%C3%A1gina%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o.&type=phone_number&app_absent=0",
+    buttonText: "Agendar avaliação no WhatsApp",
+    microText: "Resposta rápida • Atendimento exclusivo • São José dos Pinhais"
   },
   instagram: {
     handle: "@dra.annycardoso",
@@ -161,7 +161,7 @@ export const EXPERT_DATA = {
       number: "03",
       title: "Avaliação Completa Comigo",
       description: "No consultório, avalio seu sorriso, tiro todas as suas dúvidas e você descobre as melhores opções para o seu caso.",
-      highlight: "100% gratuita e sem compromisso"
+      highlight: "Atendimento 100% individual"
     }
   ] as StepItem[]
 };
